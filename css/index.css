@@ -1,3 +1,10 @@
-h1 {
+#box {
+    background-color: blue;
+    color: wheat
+}
+.heading {
     color: red;
+}
+#but1 {
+    background-color: green;
 }
