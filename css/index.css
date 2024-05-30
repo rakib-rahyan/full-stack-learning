@@ -1,12 +1,20 @@
-p-1 {
+#one {
     font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-p-2 {
+#two {
     font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
 }
-p-3 {
+#thiree {
     font-weight: 400;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }    
-p-4 {
+#fore {
     font-weight: 600;
+    font-family: cursive;
 }
+#five {
+    font-weight: 900;
+}
+ 
