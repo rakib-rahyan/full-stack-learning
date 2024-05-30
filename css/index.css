@@ -1,10 +1,12 @@
-#box {
-    background-color: blue;
-    color: wheat
+p-1 {
+    font-weight: normal;
 }
-.heading {
-    color: red;
+p-2 {
+    font-weight: bold;
 }
-#but1 {
-    background-color: green;
+p-3 {
+    font-weight: 400;
+}    
+p-4 {
+    font-weight: 600;
 }
