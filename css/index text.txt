@@ -1,0 +1,9 @@
+    Practice set 1
+Q1. create a semple div with an id "box". add some text content inside the div
+set its bacground color to blue.
+Q2 Create 3 headings with h1, h2, & h2 
+give them all a class "heading" & set color of "heading to red.
+Q3 Create a buttorn & set its bacground color to :
+    -green using css stylesheet 
+    -blue using <style>tag
+    -pink using inline style
