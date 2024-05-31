@@ -1,27 +1,27 @@
-#Q1 {
+*{
+    
+}
+div {
     height: 100px;
     width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+#box1 {
+    background-color:green;
+}
+#box2 {
     background-color: green;
-    border-radius: 50%;
+    display: none;
 }
-* {
-    padding: 0;
-    margin: 0;
-    color: white;
+#box3 {
+    background-color: red;
+    visibility: hidden;
 }
-#logo {
-    font-size: 25px;
-    color: #f08804;
+#box4 {
+    background-color: rgba(0, 255, 0, 0.75);
 }
-#navbar {
-    height: 60px;
-    background-color: #0f1111;
-    border: 2px solid red;
-}
-a {
-    margin-right: 200px;
-    text-decoration: none;
-}
-button {
-    background-color: #f08804;
+#box5 {
+    background-color: rgba(0, 255, 0, 0.5);
 }
