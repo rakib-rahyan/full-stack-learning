@@ -1,31 +1,27 @@
-div {
+#Q1 {
     height: 100px;
     width: 100px;
-    background-color: aqua;
-    border: 2px dashed red;
-    padding: 10px 20px 30px 40px;
-    margin: 50px;
-    margin-left: 0px;
-    text-align: center;
-    border-radius: 10%;
+    background-color: green;
+    border-radius: 50%;
 }
-h1 {
-    height: 100px;
-    width: 200px;
-    background-color: aqua;
-    border-width: 3px;
-    border-color: black;
-    border-style: solid;
-    text-align: center;
-    border-radius: 10px;
-    padding: 10px;
-    margin: 25px;
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#logo {
+    font-size: 25px;
+    color: #f08804;
+}
+#navbar {
+    height: 60px;
+    background-color: #0f1111;
+    border: 2px solid red;
+}
+a {
+    margin-right: 200px;
+    text-decoration: none;
 }
 button {
-    height: 50px;
-    width: 100px;
-    background-color: yellow;
-    border-radius: 10px;
-    border: 3px black double;
-    margin: 10px;
+    background-color: #f08804;
 }
