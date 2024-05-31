@@ -1,44 +1,17 @@
-.contenBox {
+div {
     height: 100px;
     width: 100px;
+    background-color: aqua;
     display: inline-block;
-    border: 2px solid black;
+    margin: 1px;
 }
-#content {
-    height: 550px;
+#box1 {
+    background-image: url(pot\ 1.jpg);
+    background-size: cover;
+    
 }
-#box1{
-    background-color: rgba(0, 0, 0, 0.25);
-}
-#box2{
-    background-color: rgba(0, 0, 0, 0.5);
-}
-#box3{
-    background-color: rgba(0, 0, 0, 0.75);
-}
-
-* {
-    padding: 0;
-    margin: 0;
-    color: white;
-}
-#logo {
-    font-size: 25px;
-    color: #f08804;
-}
-#navbar {
-    height: 60px;
-    background-color: #0f1111;
-    border: 2px solid red;
-}
-a {
-    margin-right: 200px;
-    text-decoration: none;
-}
-button {
-    background-color: #f08804;
-}
-footer {
-    background-color:  #0f1111;
-
+body {
+    background-image: url(pot\ 2.jpg);
+    background-size: cover;
+    
 }
