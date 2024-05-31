@@ -1,27 +1,44 @@
-*{
-    
-}
-div {
+.contenBox {
     height: 100px;
     width: 100px;
-    margin: 25px;
-    padding: 25px;
     display: inline-block;
+    border: 2px solid black;
 }
-#box1 {
-    background-color:green;
+#content {
+    height: 550px;
 }
-#box2 {
-    background-color: green;
-    display: none;
+#box1{
+    background-color: rgba(0, 0, 0, 0.25);
 }
-#box3 {
-    background-color: red;
-    visibility: hidden;
+#box2{
+    background-color: rgba(0, 0, 0, 0.5);
 }
-#box4 {
-    background-color: rgba(0, 255, 0, 0.75);
+#box3{
+    background-color: rgba(0, 0, 0, 0.75);
 }
-#box5 {
-    background-color: rgba(0, 255, 0, 0.5);
+
+* {
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#logo {
+    font-size: 25px;
+    color: #f08804;
+}
+#navbar {
+    height: 60px;
+    background-color: #0f1111;
+    border: 2px solid red;
+}
+a {
+    margin-right: 200px;
+    text-decoration: none;
+}
+button {
+    background-color: #f08804;
+}
+footer {
+    background-color:  #0f1111;
+
 }
