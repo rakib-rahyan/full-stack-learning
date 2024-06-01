@@ -1,35 +1,29 @@
-#contanar {
-    height: 600px;
-    width: 300px;
-    border: 2px double black;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    /* align-items: center; */
-    /* flex-wrap: wrap; */
-
-} 
-div {
-    height: 100px;
-    width: 200px;
-    border: 2px solid black;
-    display: inline-block;
-    text-align: center;
-}
-#box1 {
-    background-color: aqua;
-}
-#box2 {
+.navbar {
     background-color: pink;
-    flex-grow: 1;
+    display: flex;
+    justify-content: space-evenly;
+    /* margin-left: ; */
 }
-#box3 {
-    background-color: darkkhaki;
-    flex-grow: 1;
+a {
+    text-decoration: none;
+    color: black;
+    /* background-color: white; */
+    color: red;
 }
-#box4 {
-    background-color: indianred;
+li {
+    list-style-type: none;
+    display: inline;
 }
-#box5 {
-    background-color: slateblue;
+.outer {
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner {
+    background-color: blue;
+    height: 100px;
+    width: 100px
 }
