@@ -1,18 +1,9 @@
-units is css
- -relative % em rem
- -position 
+practice set 5
+Qs: Create the following layout using the given html. 
+    -Give the div a height, width & some background image.
+    -Use the apropriate position property for the div element to place it at 
+    the right end of the page. (The div should not move even on scorll)
 
-
- [#box1 {
-    height: 100px;
-    width: 300px;
-    background-color: green;
-    font-size: 20px;
-}
-#box2 {
-    height: 50px;
-    width: 5em;
-    background-color: red;
-    margin-left: 10%;
-    font-size: 2rem;
-}]
+    <p> lorem*5 </p> 
+    <div> kive batyre </div>
+    <p> lorem*5</p>

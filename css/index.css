@@ -1,17 +1,12 @@
+
 div {
     height: 100px;
-    width: 100px;
-    background-color: aqua;
-    display: inline-block;
-    margin: 1px;
-}
-#box1 {
-    background-image: url(pot\ 1.jpg);
+    width: 150px;
+    background-image: url(pot\ 3.jpg);
     background-size: cover;
-    
-}
-body {
-    background-image: url(pot\ 2.jpg);
-    background-size: cover;
-    
+    color: white;
+    position: fixed;
+    right: 0px;
+    top: 50px;
+
 }
